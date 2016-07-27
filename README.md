@@ -1,8 +1,6 @@
 Hi! this is a read me file for makala corp project that I have done.
-[![Daniel Mangowi: ICT Student at VIA University College](daniel.png)](http://www.mangowi.com)
+[![Daniel Mangowi: ICT Student at VIA University College]
 
-For live preview of this project check out
-- [Makala Corp](http://mangowi.com/porfolio/makala_corp)
 
 ## Description
 Ths is a content management system appliction that has been built up on idea of writing post and sharing to public.Where there is a public area and admin area.Admin is one who has responsiblity of adding user, deleteing user, updating user and posting subjects and page (CRUD).
